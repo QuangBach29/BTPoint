@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BUoi 7.iml" filepath="$PROJECT_DIR$/BUoi 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bai9/Bai9.iml" filepath="$PROJECT_DIR$/../Bai9/Bai9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai8/bai8.iml" filepath="$PROJECT_DIR$/../bai8/bai8.iml" />
     </modules>
   </component>
 </project>
